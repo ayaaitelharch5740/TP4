@@ -1,4 +1,4 @@
-package com.example.tp3;
+package com.exercice3;
 
 import java.util.HashSet;
 import java.util.Set;

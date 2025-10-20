@@ -1,4 +1,4 @@
-package com.example.tp3;
+package com.exercice3;
 
 public class Livre {
 	private static int compteur = 0;

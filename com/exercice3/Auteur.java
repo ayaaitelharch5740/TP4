@@ -1,4 +1,4 @@
-package com.example.tp3;
+package com.exercice3;
 
 import java.util.ArrayList;
 import java.util.List;
